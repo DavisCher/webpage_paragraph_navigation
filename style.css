@@ -1,0 +1,33 @@
+body{ 
+    margin: 0;
+
+background-image: url(porsche_mug.png);    
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+   height: 100vh;
+   width: 100%;
+}
+
+.header{background-color: rgb(255,215,0); clear:both; overflow: auto; opacity: .85;}
+.logo{ float:left; color: rgba(0,0,0); padding:10px; font-size: 40px;}
+.nav{ float:right; color: rgb(0,0,0);}
+
+li{display: inline-block; 
+padding: 20px; 
+font-size: 20px ;
+}                
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
